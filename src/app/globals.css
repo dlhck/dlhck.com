@@ -29,6 +29,12 @@ body {
         a {
             color: var(--link);
         }
+        strong {
+            @apply bg-yellow-100/80
+        }
+        em, i {
+            @apply text-blue-600
+        }
     }
 }
 

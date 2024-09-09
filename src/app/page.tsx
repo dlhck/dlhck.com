@@ -6,7 +6,7 @@ export default function Home() {
                 <span
                     className="text-slate-400 italic">Höck, alternatively Hoeck or Hock (annoying German letters)</span>
             </div>
-            <div className="prose">
+            <div className="prose max-w-none">
                 <p>
                     I am an entrepreneur, software engineer, mechatronics engineer and very passionate about anything in
                     technology.
